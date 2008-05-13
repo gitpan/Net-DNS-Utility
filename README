@@ -1,4 +1,4 @@
-Net-DNS-Utility version 0.01
+Net-DNS-Utility version 0.02
 ============================
 
 The README is used to introduce the module and provide instructions on
@@ -25,8 +25,8 @@ DEPENDENCIES
 
 This module requires these other modules and libraries:
 
-  Debug-0.0.1
-  Net-IPv6Address-0.01
+  Debug-0.02
+  Net-IPv6Address-0.02
 
 COPYRIGHT AND LICENCE
 
